@@ -9,3 +9,4 @@ fbfgnsgfn
 snmp_get_quick_printnfs
 gnfs
 scandirn
+echo "anime";
